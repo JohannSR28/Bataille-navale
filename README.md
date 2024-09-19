@@ -1,7 +1,3 @@
-Voici un README pour le projet Python du jeu "Bataille Navale" utilisant le module `turtle` :
-
----
-
 # Bataille Navale
 
 Ce projet est une version simplifiée du jeu de société classique "Bataille Navale", développée en Python en utilisant le module `turtle`. Le jeu se joue entre deux joueurs, chacun ayant une grille de bateaux placés aléatoirement. Les joueurs prennent des tours pour viser les bateaux de l'adversaire, et le jeu continue jusqu'à ce qu'un joueur coule tous les bateaux de l'autre.
@@ -51,7 +47,3 @@ python touche_coule_[20227958].py
 ## Note
 
 Ce projet a été développé à des fins éducatives et utilise `turtle` pour la visualisation graphique simple du jeu. Le code est optimisé pour fonctionner sur Codeboot uniquement.
-
----
-
-Si vous avez besoin d'améliorations ou de nouvelles fonctionnalités, n'hésitez pas à me le faire savoir !
